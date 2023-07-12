@@ -16,10 +16,7 @@ Complex problem-solver with an analytical and driven mindset. Dedicated to achie
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thehumane&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+![](https://github-contributor-stats.vercel.app/api?username=thehumane&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thehumane&icon=0&color=6)](https://visitcount.itsvg.in)
